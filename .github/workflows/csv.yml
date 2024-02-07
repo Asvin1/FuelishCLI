@@ -28,7 +28,7 @@ jobs:
              cd src
              ls
              git config --global user.name "Asvin1"
-             git config --global user.email "89799369+Asvin1@users.noreply.github.com"
+             git config --global user.email "asvinnahar@gmail.com"
              git clean  -d  -f
              git pull
              git add -A
